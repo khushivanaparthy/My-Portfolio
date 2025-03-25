@@ -31,7 +31,7 @@ const Hero = () => {
             
             <div className="flex flex-wrap gap-4 mb-8">
               <motion.a
-                href="/resume.pdf"
+                href="/KhushiVanaparthy_DataEngineer_Resume.pdf"
                 download
                 className="flex items-center gap-2 bg-accent dark:bg-dark-accent text-white px-6 py-3 rounded-lg font-inter font-medium hover:bg-accent/90 dark:hover:bg-dark-accent/90 transition-colors duration-300"
                 whileHover={{ scale: 1.05 }}
